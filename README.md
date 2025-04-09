@@ -43,11 +43,11 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=EnryX72&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=enricoong&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnryX72"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enricoong"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnryX72&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoong&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
@@ -59,7 +59,7 @@
 <div align="center">
     <b style = {font-weight: 600}>Visitors Count</b>
    <br>
-   <img src="https://komarev.com/ghpvc/?username=EnryX72&style=for-the-badge&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
+   <img src="https://komarev.com/ghpvc/?username=enricoong&style=for-the-badge&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
 </div>
 
 ## &nbsp; &nbsp; 📥 &nbsp; Connnect with Me
