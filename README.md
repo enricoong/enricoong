@@ -11,7 +11,7 @@
 
 </br>
 
-- 🔧 I’m currently studying IT at ITTS Vito Volterra.
+- 🔧 I’m currently studying Cybersecurity at the ITS M. Volpato.
 - 💡 I’m curious about Cryptography and Retro stuff.
 
 <hr>
