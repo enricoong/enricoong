@@ -1,6 +1,6 @@
 # Ciao, sono Enrico
 
-Sono uno **studente** appassionato di cybersecurity e motori.
+Sono uno **studente** appassionato di cybersecurity, Hi-Fi, elettronica, motori e amante del DIY.
 Studio all'ITS Mario Volpato nella sede di Treviso.
 
 ### 🛠 Competenze Tecniche
@@ -8,4 +8,4 @@ Studio all'ITS Mario Volpato nella sede di Treviso.
 * **Alcuni programmi che ho usato:** JetBrains Suite, Visual Studio Code, Visual Studio, Android Studio
 
 ### Contatti
-Il mio profilo [LinkedIn](www.linkedin.com/in/enrico-negretto)
+Il mio profilo [LinkedIn](www.linkedin.com/in/enrico-negretto).
